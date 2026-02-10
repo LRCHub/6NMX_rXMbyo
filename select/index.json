@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海底撈月",
+  "base_artist": "Rabbit horn's",
+  "createdAt": "2026-02-10T14:26:55.053315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海底撈月",
+      "artist": "Rabbit horn's",
+      "has_synced": false,
+      "path": "select/pl_01_海底撈月_Rabbit_horn's.txt"
+    }
+  ]
+}
